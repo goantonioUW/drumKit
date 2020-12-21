@@ -1,13 +1,13 @@
 body {
   text-align: center;
-  background-color: #283149;
+  background-color: #3a2353;
 }
 
 h1 {
   font-size: 5rem;
-  color: #dbedf3;
+  color: #ad7f00;
   font-family: "Arvo", cursive;
-  text-shadow: 3px 0 #da0463;
+  text-shadow: 3px 0 #ccb1e9;
 }
 
 footer {
@@ -32,33 +32,24 @@ footer {
 }
 
 .j {
-  background-image: url(images/tom2.png);
+  background-image: url(../images/tom2.png);
 }
 
 .k {
-  background-image: url(images/tom3.png);
+  background-image: url(../images/tom3.png);
 }
 
 .l {
-  background-image: url(images/tom4.png);
+  background-image: url(../images/tom4.png);
 }
 
 .set {
   margin: 10% auto;
 }
 
-.game-over {
-  background-color: red;
-  opacity: 0.8;
-}
-
 .pressed {
   box-shadow: 0 3px 4px 0 #dbedf3;
   opacity: 0.5;
-}
-
-.red {
-  color: red;
 }
 
 .drum {
@@ -68,8 +59,8 @@ footer {
   font-family: "Arvo", cursive;
   line-height: 2;
   font-weight: 900;
-  color: #da0463;
-  text-shadow: 3px 0 #dbedf3;
+  color: #ad7f00;
+  text-shadow: 3px 0 #ccb1e9;
   border-radius: 15px;
   display: inline-block;
   width: 150px;
@@ -77,4 +68,9 @@ footer {
   text-align: center;
   margin: 10px;
   background-color: white;
+}
+
+footer {
+  font-size: 2rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
