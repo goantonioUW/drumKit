@@ -9,4 +9,4 @@ In this project I used HTML, CSS and JavaScript.
 
 # screenshot
 
-![ScreenShot of the app](../images/screenshot.png)
+![ScreenShot of the app](images/screenshot.png)
